@@ -14,7 +14,7 @@
 	"devDependencies": {
 		"@biomejs/biome": "1.9.4",
 		"@types/node": "^22.9.0",
-		"@types/react": "18.3.12",
+		"@types/react": "19.0.0",
 		"tsconfig": "workspace:*"
 	},
 	"main": "./index.tsx",
